@@ -398,10 +398,6 @@ namespace WebApplication8
 
         }
 
-        protected void Button10_Click(object sender, EventArgs e)
-        {
-            Label1.Text = "Hej";
-        }
 
         protected void Button11_Click(object sender, EventArgs e)
         {

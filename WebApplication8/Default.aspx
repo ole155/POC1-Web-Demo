@@ -103,7 +103,6 @@
                     </td>
                 <td class="auto-style3">
                             &nbsp;&nbsp;&nbsp;
-                            <asp:Button ID="Button10" runat="server" OnClick="Button10_Click" Text="Button" />
                             </td>
                 <td class="auto-style3">
                     &nbsp;</td>
